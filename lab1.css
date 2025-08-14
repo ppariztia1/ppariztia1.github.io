@@ -1,0 +1,37 @@
+.table_title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #b5e0f5
+}
+
+.table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    margin: 20px 0;
+    font-size: 16px;
+    text-align: center;
+}
+
+.table_header {
+    background-color: rgb(44, 77, 110);
+    color: #f0ead6;
+    font-weight: semibold;
+}
+
+.table_row_A {
+    background-color: #b5e0f5;
+    color: black;
+}
+
+.table_row_B {
+    background-color: #c4e4ec;
+    color: black;
+}
+
+a:link {
+  color: lightblue;
+}
+a:visited {
+  color: #bb86fc;
+}
